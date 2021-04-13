@@ -22,7 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86570c90-869d-478f-a9e5-75e32e023345" name="Default Changelist" comment="progress" />
+    <list default="true" id="86570c90-869d-478f-a9e5-75e32e023345" name="Default Changelist" comment="progress">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaching_life.php" beforeDir="false" afterPath="$PROJECT_DIR$/coaching_life.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,7 +89,24 @@
       <workItem from="1606819609294" duration="29204000" />
       <workItem from="1606909568930" duration="18696000" />
       <workItem from="1606964260751" duration="47371000" />
-      <workItem from="1607058364433" duration="7159000" />
+      <workItem from="1607058364433" duration="7961000" />
+      <workItem from="1607248780070" duration="582000" />
+      <workItem from="1607344262107" duration="1204000" />
+      <workItem from="1610200403840" duration="389000" />
+      <workItem from="1613910210978" duration="582000" />
+      <workItem from="1613958319424" duration="616000" />
+      <workItem from="1616569652136" duration="1887000" />
+      <workItem from="1616653666133" duration="1117000" />
+      <workItem from="1616752945808" duration="1688000" />
+      <workItem from="1616830598630" duration="583000" />
+      <workItem from="1616920420198" duration="1123000" />
+      <workItem from="1617000504592" duration="1132000" />
+      <workItem from="1617067598654" duration="585000" />
+      <workItem from="1618061377338" duration="1251000" />
+      <workItem from="1618111457542" duration="432000" />
+      <workItem from="1618185374481" duration="1587000" />
+      <workItem from="1618276207454" duration="427000" />
+      <workItem from="1618277013036" duration="1754000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1606217831025</created>
@@ -388,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607074526713</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="progress">
+      <created>1607075070125</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1607075070125</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,54 +459,5 @@
     <MESSAGE value="couch show hide" />
     <MESSAGE value="progress" />
     <option name="LAST_COMMIT_MESSAGE" value="progress" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="308" y="41" key="#Inspections" timestamp="1606851180367">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="308" y="41" key="#Inspections/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1606851180367" />
-    <state x="-1369" y="160" key="#Plugins" timestamp="1606312987293">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1369" y="160" key="#Plugins/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606312987293" />
-    <state x="-1194" y="493" key="#SCSS_Lint" timestamp="1606222645077">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1194" y="493" key="#SCSS_Lint/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606222645077" />
-    <state x="405" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607012946170">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="405" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1607012946170" />
-    <state x="-1257" y="418" key="EditFileWatcherDialog" timestamp="1606222633156">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1257" y="418" key="EditFileWatcherDialog/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606222633156" />
-    <state x="-1045" y="260" key="FileChooserDialogImpl" timestamp="1606648710454">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1045" y="260" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606648710454" />
-    <state x="564" y="309" key="NewPhpFileDialog" timestamp="1606974815395">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="-1127" y="442" key="NewPhpFileDialog/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606832069746" />
-    <state x="564" y="309" key="NewPhpFileDialog/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1606974815395" />
-    <state x="660" y="131" key="RollbackChangesDialog" timestamp="1607060058662">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="-992" y="260" key="RollbackChangesDialog/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607010825889" />
-    <state x="660" y="131" key="RollbackChangesDialog/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1607060058662" />
-    <state x="-1383" y="328" key="SettingsEditor" timestamp="1606222703474">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1383" y="328" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606222703474" />
-    <state x="489" y="176" key="Vcs.Push.Dialog.v2" timestamp="1607074533543">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="-1233" y="252" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607074435187" />
-    <state x="489" y="176" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1607074533543" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607016513962">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1607016513962" />
   </component>
 </project>

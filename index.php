@@ -504,6 +504,7 @@
     <img class="top-arrow mb-2 mr-1" src="img/Vector.svg" alt="top-arrow" style="vertical-align:middle">
     <span class="top-txt">Вверх</span>
 </a>
+<script src="video.js"></script>
 <script>
     function show1() {
         let i;
